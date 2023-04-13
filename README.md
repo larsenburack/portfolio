@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 A collection of coursework and independent data science projects
